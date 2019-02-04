@@ -1,0 +1,17 @@
+title: Data Responsibly Course Spring 19
+description: This is a repo for Spring 19 course.
+email: stoyanovich@nyu.edu
+
+baseurl: ""
+url: ""
+include:
+  - _pages
+
+sass:
+  style: :compressed
+  sass_dir: _sass
+
+theme: jekyll-theme-primer
+
+plugins:
+  - jekyll-redirect-from

@@ -1,2 +1,2 @@
 # spring19
-Another link for Spring course 2019
+Another access point for Spring course 2019. 
